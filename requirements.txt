@@ -1,0 +1,9 @@
+streamlit
+pypdf
+faiss-cpu
+numpy
+google-genai
+python-dotenv
+pandas
+pymysql
+bcrypt
